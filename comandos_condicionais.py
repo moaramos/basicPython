@@ -13,7 +13,7 @@ print("--------\n")
 #comando elif (cai no primeiro que der "True")
 if a == b:
 	print("numeros iguais")
-elif a < b:
-	print("'a' menor que 'b'")
+elif a > b:
+	print("'a' é maior que 'b'")
 else:
 	print("numeros sao diferentes")
