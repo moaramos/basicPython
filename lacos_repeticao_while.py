@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+
+#while (enquanto)
+
+x = 1
+
+while x <= 10:
+	print(x)
+	x += 1 #igual a "x = x + 1"
+
